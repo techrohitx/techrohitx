@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/techrohitx/techrohitx/output/snake.svg" alt="Snake animation" />
+<img https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif />
 
 ###
 
