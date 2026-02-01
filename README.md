@@ -18,6 +18,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 <h2 align="left">I automate with</h2>
 
 
@@ -45,6 +54,8 @@
 </div>
 
 ###
+
+<h2 align="left">Connect with me </h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rohit-shinde-495059295/" target="_blank">
