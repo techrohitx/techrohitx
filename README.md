@@ -22,7 +22,7 @@ Cloud & DevOps learner focused on building practical skills with Linux, Docker, 
     <img 
       src="https://img.freepik.com/premium-vector/cartoon-character-with-laptop-green-screen_863867-3871.jpg?semt=ais_user_personalization&w=740&q=80" 
       alt="Cartoon Character" 
-      style="height: auto; max-height: 201px; border-radius: 10px;" 
+      style="height: auto; max-height: 50px; border-radius: 10px;" 
     />
   </div>
 </div>
