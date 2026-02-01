@@ -1,20 +1,6 @@
-<h1 align="left">Hey 👋 I'm Rohit</h1>
-
-###
-
-<p align="left">Cloud & DevOps learner focused on building practical skills with Linux, Docker, Git, and AWS through hands-on projects.</p>
-
-###
-
-<h2 align="left">About me</h2>
 
 
 
-<img align="right" height="201" src="https://img.freepik.com/premium-vector/cartoon-character-with-laptop-green-screen_863867-3871.jpg?semt=ais_user_personalization&w=740&q=80"  />
-
-
-
-<h3 align="left">📚 I'm currently learning :-  AWS and DevOps <br>🎯 Goals :- Become a DevOps/Cloud Engineer<br>🎲 Fun fact :- I trust docker ps more than people<br>📌 Quote :- "Learn by doing. Fail fast.  Fix faster."</h3>
 
 
 
