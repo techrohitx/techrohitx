@@ -23,6 +23,8 @@
 
 ## 🛠️ Skills & Projects
 
+## 🛠️ Skills & Projects
+
 | Domain | Skills / Tools | Projects |
 |------|----------------|----------|
 | **Cloud** | AWS | - [Configure a Static Website with S3](https://github.com/iamtruptimane/configure-static-website)<br>- [Securing VPC](https://github.com/iamtruptimane/securing-vpc)<br>- Scale the application using AWS resources |
@@ -30,12 +32,13 @@
 | **Infrastructure as Code** | Terraform | - [Deploy Highly Available Website on AWS](https://github.com/iamtruptimane/Terraform-projects/tree/main/05-deploy-highly-available-website)<br>- [AWS Infrastructure Deployment](https://github.com/iamtruptimane/Terraform-projects/tree/main/02-create-infrastructure)<br>- [Dynamic Blocks in Terraform](https://github.com/iamtruptimane/Terraform-projects/tree/main/06-create-res-using-dynamic-block) |
 | **Containerization** | Docker | - [Docker Projects](https://github.com/iamtruptimane/docker-projects) |
 | **CI/CD** | AWS CodePipeline, CodeBuild, CodeDeploy | - [CI/CD with AWS Code Services](https://github.com/iamtruptimane/CICD-with-AWS-code-services) |
-
+| **Programming Languages** | JavaScript, Python, C++ | - [LeetCode String Problems](https://github.com/iamtruptimane/python-programs/tree/main/leetcode/string)<br>- [LeetCode Array Problems](https://github.com/iamtruptimane/python-programs/tree/main/leetcode/array)<br>- [Python 100 Days Challenge](https://github.com/iamtruptimane/python-programs/tree/main/leetcode) |
 | **Monitoring** | AWS CloudWatch | - Monitoring AWS resources using CloudWatch |
 | **Scripting** | Bash / Shell, Python | - [Shell Scripting](https://github.com/iamtruptimane/shell-scripting) |
 | **Source Code Management (SCM)** | GitHub, GitLab, AWS CodeCommit | - [GitHub Profile](https://github.com/iamtruptimane)<br>- [AWS CodeCommit Project](https://github.com/iamtruptimane/CICD-with-AWS-code-services) |
 | **Configuration Management** | Ansible | - Started learning in **January 2024** |
 | **Databases** | DynamoDB, RDS | - [Create DynamoDB Table](https://github.com/iamtruptimane/create-DynamoDB-table)<br>- [RDS Multi-AZ Setup](https://github.com/iamtruptimane/create-RDS-database) |
+
 
 
 
