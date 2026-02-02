@@ -33,6 +33,7 @@ Cloud & DevOps learner focused on building practical skills with Linux, Docker, 
 
 
 ## 🛠️ Skills & Projects
+| <span style="color:green">Domain</span> | <span style="color:green">Skills / Tools</span> | <span style="color:green">Projects</span> |
 
 | Domain | Skills / Tools | Projects |
 |------|----------------|----------|
