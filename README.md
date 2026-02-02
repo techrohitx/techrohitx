@@ -44,7 +44,7 @@ Cloud & DevOps learner focused on building practical skills with Linux, Docker, 
 | **Monitoring** | AWS CloudWatch | - Monitoring AWS resources using CloudWatch |
 | **Scripting** | Bash / Shell | - [Shell Scripting](https://github.com/techrohitx/shell_scrpting.git) |
 | **Source Code Management (SCM)** | GitHub, GitLab, AWS CodeCommit | - [GitHub Profile](https://github.com/techrohitx)<br>- [AWS CodeCommit Project]() |
-| **Configuration Management** | Ansible | - Started learning in **January 2024** |
+| **Configuration Management** | Ansible | - [All_Files]() |
 | **Databases** | DynamoDB, RDS | - [Create DynamoDB Table]()<br>- [RDS Multi-AZ Setup]() |
 
 
