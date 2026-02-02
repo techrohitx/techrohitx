@@ -37,9 +37,9 @@ Cloud & DevOps learner focused on building practical skills with Linux, Docker, 
 | Domain | Skills / Tools | Projects |
 |------|----------------|----------|
 | **Cloud** | AWS | - [Configure a Static Website with S3](https://github.com/techrohitx/Deploying_-Static_Website_using_-s3-bucket.git)<br>- [Securing VPC]()<br>- Scale the application using AWS resources |
-| **Orchestration** | Terraform, AWS ECS | - [Practical_files_terraform](https://github.com/techrohitx/Terraform.git)[Provisioning an Amazon ECS Cluster Using Terraform]()<br>- [Amazon ECS Blue-Green Deployment]() |
+| **Orchestration** | Terraform, AWS ECS | - [Practical_files_terraform](https://github.com/techrohitx/Terraform.git)<br>- [Provisioning an Amazon ECS Cluster Using Terraform]()<br>- [Amazon ECS Blue-Green Deployment]() |
 | **Infrastructure as Code** | Terraform | - [Deploy Highly Available Website on AWS]()<br>- [AWS Infrastructure Deployment]()<br>- [Dynamic Blocks in Terraform]() |
-| **Containerization** | Docker | - [Docker Projects]() |
+| **Containerization** | Docker | - [3-tier_Projects](https://github.com/techrohitx/3-Tier-Artitecture-Docker.git) |
 | **CI/CD** | AWS CodePipeline, CodeBuild, CodeDeploy | - [CI/CD with AWS Code Services]() |
 | **Monitoring** | AWS CloudWatch | - Monitoring AWS resources using CloudWatch |
 | **Scripting** | Bash / Shell | - [Shell Scripting](https://github.com/techrohitx/shell_scrpting.git) |
